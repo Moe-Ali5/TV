@@ -1,0 +1,54 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="hidayat" tvg-name="Hidayat TV" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/hidayattv.jpg?raw=true" group-title="Islam",Hidayat TV
+https://5ea6c12423da2.streamlock.net/hidayat-live/hidayat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="geonews" tvg-name="Geo News" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/geonews.jpg?raw=true" group-title="News",Geo News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/aljazeera.png?raw=true" group-title="News",Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="bbcone" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/Moe-Ali5/Logos/refs/heads/main/bbcone.png?raw=true" group-title="BBC",BBC One
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="bbctwo" tvg-name="BBC Two" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/bbctwo.png?raw=true" group-title="BBC",BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC News" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/bbcnews.png?raw=true" group-title="News",BBC News
+https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+
+#EXTINF:-1 tvg-id="skynews" tvg-name="Sky News" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/skynews.jpg?raw=true" group-title="News",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/cnn.png?raw=true" group-title="News",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/bloomberg.jpg?raw=true" group-title="News",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="ahlulbayttv" tvg-name="Ahlul Bayt TV" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/ahlulbayttv.png?raw=true" group-title="Islam",Ahlul Bayt TV
+https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
+
+#EXTINF:-1 tvg-id="presstv" tvg-name="Press TV" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/presstv.jpg?raw=true" group-title="News",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+
+#EXTINF:-1 tvg-id="imamhussaintvenglish" tvg-name="Imam Hussain TV - English" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/imamhusseintv3.jpg?raw=true" group-title="Islam",Imam Hussain TV - English
+https://ak.imamhussein.live/imhtv3live/imhtv3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="imamhussaintvurdu" tvg-name="Imam Hussain TV - Urdu" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/imamhusseintv4.jpg?raw=true" group-title="Islam",Imam Hussain TV - Urdu
+https://ak.imamhussein.live/imhtv4live/imhtv4.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="velayattv" tvg-name="Velayat TV" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/velayattv.png?raw=true" group-title="Islam",Velayat TV
+https://nl.livekadeh.com/hls2/velayattv_src.m3u8
+
+#EXTINF:-1 tvg-id="dwnews" tvg-name="DW News" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/dwnews.jpg?raw=true" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="trtworld" tvg-name="TRT World" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/trtworld.jpg?raw=true" group-title="News",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+
+#EXTINF:-1 tvg-id="rtnews" tvg-name="RT News" tvg-logo="https://github.com/Moe-Ali5/Logos/blob/main/rtnews.png?raw=true" group-title="News",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
